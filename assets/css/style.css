@@ -681,13 +681,14 @@ section {
 }
 
 .info--contact {
-  margin-top: 40px;
   margin-left: 100px;
+  margin-bottom: 40px;
 }
 
 .contact_links i {
   margin-right: 5px;
   margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .contact_links i:hover {
